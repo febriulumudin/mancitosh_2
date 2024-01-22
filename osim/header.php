@@ -10,27 +10,46 @@
 	<link rel="stylesheet" href="<?= $url ?>/css/bootstrap.min.css">
 	<link rel="stylesheet" href="<?= $url ?>/fonts/bootstrap-icons/bootstrap-icons.min.css">
 	<link rel="stylesheet" href="<?= $url ?>/css/style.css">
+	<link rel="stylesheet" href="<?= $url ?>/css/style-padding.css">
 </head>
 <body>
-	<div class="container fixed-top navbar-expand-lg" id="home">
-		<div class="row align-items-center py-3">
-			<div class="col-6 col-md-3 col-lg-2 order-1">
-				<a href="<?= $url ?>" class="fs-5 link-underline link-underline-opacity-0 link-body-emphasis">MANCITOSH</a>
-			</div>
-			<div class="col-12 col-md-6 col-lg-8 order-3 order-md-2">
-				<ul class="nav justify-content-center">
+<div class="container">
+
+	<nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+	  <div class="container">
+		<a class="navbar-brand" href="#">Mancitosh</a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+		  <span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+		  <div class="navbar-nav">
+			<a class="nav-link active" aria-current="page" href=" <?= $url ?>">Home</a>
+			<a class="nav-link" href="#">Bidang Lomba</a>
+			<a class="nav-link" href="#">Poster</a>
+			<a class="nav-link disabled" aria-disabled="true"></a>
+		  </div>
+		</div>
+	  </div>
+	</nav>
+</div>
+		<!--<div class="col-12 col-md-6 col-lg-8 order-2">
+				<ul class="nav align-text-left">
 					<li class="nav-item">
-						<a href="<?= $url ?>" class="nav-link link-body-emphasis border-dark">Home</a>
+						<a href="<?= $url ?>/vlog.php" class="nav-link link-body-emphasis border-dark">VLOG</a>
 					</li>
 					<li class="nav-item">
-						<a href="" class="nav-link link-body-emphasis border-dark">Bidang lomba</a>
+						<a href="<?= $url ?>/poster.php" class="nav-link link-body-emphasis border-dark">DESAIN POSTER</a>
 					</li>
 					<li class="nav-item">
-						<a href="<?= $url ?>" class="nav-link link-body-emphasis border-dark">Poster</a>
+						<a href="<?= $url ?>/mtq.php" class="nav-link link-body-emphasis border-dark">MTQ</a>
+					</li>
+					<li class="nav-item">
+						<a href="<?= $url ?>/puisi-kandungan-alquran.php" class="nav-link link-body-emphasis border-dark">PUISI KANDUNGAN AL-QUR'AN</a>
 					</li>
 				</ul>
-			</div>
-			
-			</div>
+			</div>-->
+			<!--<div class="col-6 col-md-3 col-lg-2 order-2 order-md-3 text-end">
+				<a href="#" class="btn btn-success">FORM</a>
+			</div>-->
 		</div>
-	</div> 
+	</div>

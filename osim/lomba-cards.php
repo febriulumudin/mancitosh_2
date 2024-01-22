@@ -1,4 +1,4 @@
-<div class="container" id=''>
+<div class="container">
     <div class="card mb-4 d-none">
         <div class="card-body">
             <h5 class="card-title">JUDUL LOMBA</h5>

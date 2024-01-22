@@ -1,0 +1,10 @@
+@media(min-width: 1200px) {
+    .padding-plus{
+        padding-left: 300px;
+    }
+}
+@media(min-width: 994px) {
+    .padding-plus{
+        padding-left: 180px;
+    }
+}
