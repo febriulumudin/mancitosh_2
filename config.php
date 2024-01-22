@@ -4,4 +4,4 @@
  * rename menjadi 'config.php'
  * sesuaikan isi variable $url dengan alamat aplikasi
  */
-$url = 'http://localhost/mancitosh/';
+$url = 'http://localhost/mancitosh_2/';

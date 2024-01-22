@@ -5,9 +5,10 @@
 	<meta name="description" content="Laman resmi Mancitosh MAN 1 Ponorogo">
 
 	<!-- assets -->
-	<link rel="stylesheet" href="http://localhost/mancitosh//css/bootstrap.min.css">
-	<link rel="stylesheet" href="http://localhost/mancitosh//fonts/bootstrap-icons/bootstrap-icons.min.css">
-	<link rel="stylesheet" href="http://localhost/mancitosh//css/style.css">
+	<link rel="stylesheet" href="http://localhost/mancitosh/css/bootstrap.min.css">
+	<link rel="stylesheet" href="http://localhost/mancitosh/fonts/bootstrap-icons/bootstrap-icons.min.css">
+	<link rel="stylesheet" href="http://localhost/mancitosh/css/style.css">
+	<link rel="stylesheet" href="http://localhost/mancitosh_2/css/style-timeline.css">
 </head>
 <div class="container">
 
@@ -74,7 +75,121 @@
         <img src="https://source.unsplash.com/random/570x570?robot" class="img-fluid">
     </div>
 </div>
-<p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, voluptatibus!</p>
+<p class="text-center">LKETENTUAN LOMBA VLOG MANCITOSH V.8 COMPETITION MAN 1 PONOROGO
+
+
+
+A.	Syarat Peserta
+1.	Peserta adalah siswa/i kelas IX SMP/MTs se-Karesidenan Madiun yang dibuktikan dengan kartu pelajar.
+2.	Peserta dapat bersifat individu atau tim beranggotakan maksimal 3 (tiga) orang dari sekolah yang sama.
+3.	Peserta hanya boleh mengirimkan satu karya.
+4.	Peserta mengupload twibbon MANCITOSH, dengan format:
+-	Slide pertama	: Twibbon
+-	Slide kedua		: Poster MANCITOSH
+5.	Twibbon dan caption dapat diunduh melalui link berikut: http://twb.nz/mancitoshv8 
+6.	Twibbon diunggah di Instagram dan tag akun @man1ponorogo @osmanza.po
+
+B.	Ketentuan Lomba
+1.	Tema lomba Vlog MANCITOSH V.8 adalah : “Bukan Zaman Dulu Lagi, Kita Anak Muda Berteknologi”
+2.	Durasi Vlog MAKSIMUM 3 menit, termasuk intro, inti Vlog dan credit title, jika melebihi durasi akan berdampak pengurangan nilai.
+3.	Format video minimal MP4 720p.
+4.	Buatlah thumbnail video yang berisi judul dan potongan Vlog dengan ukuran 1280 x 720 pixel dengan desain yang menarik.
+5.	Video dan Thumbnail diunggah ke laman web MAN 1 Ponorogo : https://www.man1ponorogo.sch.id / pada tanggal 21 Januari – 17 Februari 2024 pukul
+23.59 WIB.
+6.	Peserta diperbolehkan menggunakan aplikasi apapun sesuai kemampuan
+7.	Footage Vlog harus dibuat sendiri dan merupakan karya orisinil tiap anggota tim.
+8.	Pendaftaran peserta dan pengumpulan karya dilakukan pada tanggal 22 Januari 2024 – 17 Februari 2024 pada    laman web MAN 1 Ponorogo : https://www.man1ponorogo.sch.id/
+9.	Tim yang terpilih akan diundang mempresentasikan karyanya pada tanggal 24 Februari 2024 untuk mengikuti seleksi tahap akhir bertempat di MAN 1 Ponorogo.
+
+A.	Kriteria Penilaian
+
+1.	Aspek Content (40%)
+Meliputi: Ide dasar, kesesuaian dengan tema, konsep, kedalaman eksplorasi tema serta komunikatif dalam penyampaian pesan.
+ 
+2.	Sinematografi (40%)
+Meliputi: Teknik pengambilan video, artistik, pencahayaan.
+3.	Editing (20%)
+Meliputi : Teknik cutting, effect, audio, coloring.
+
+D.	Tanggal Penting Vlog
+•	22 Januari –17 Februari 2024	: Pendaftaran dan Pengumpulan karya
+•	25 Januari 2024	: Technical Meeting
+•	20 Februari 2024	: Pengumuman Final
+•	24 Februari 2024	: Tahap Final dan Penganugerahan Peserta 
+ Lomba
+E.	Ketentuan Lain
+1.	Keputusan dewan juri bersifat MUTLAK dan tidak dapat diganggu gugat.
+2.	Seluruh karya Vlog yang masuk ke panitia tetap milik peserta, namun MAN 1 Ponorogo berhak menggunakannya untuk keperluan publikasi dsb.
+3.	Karya peserta WAJIB orsinil, apabila peserta terbukti melakukan kecurangan dalam perlombaan maka panitia berhak melakukan diskualifikasi terhadap tim tersebut.
+</p>
+<div class="container-fluid" rel="stylesheet" href="style.css">
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-5">Horizontal Timeline</h4>
+
+                <div class="hori-timeline" dir="ltr">
+                    <ul class="list-inline events">
+                        <li class="list-inline-item event-list">
+                            <div class="px-4">
+                                <div class="event-date bg-soft-danger text-danger">7 June</div>
+                                <h5 class="font-size-16">Event Three</h5>
+                                <p class="text-muted">If several languages coalesce the grammar of the resulting simple and regular</p>
+                                <div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="list-inline-item event-list">
+                            <div class="px-4">
+                                <div class="event-date bg-soft-danger text-danger">7 June</div>
+                                <h5 class="font-size-16">Event Three</h5>
+                                <p class="text-muted">If several languages coalesce the grammar of the resulting simple and regular</p>
+                                <div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="list-inline-item event-list">
+                            <div class="px-4">
+                                <div class="event-date bg-soft-danger text-danger">7 June</div>
+                                <h5 class="font-size-16">Event Three</h5>
+                                <p class="text-muted">If several languages coalesce the grammar of the resulting simple and regular</p>
+                                <div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="list-inline-item event-list">
+                            <div class="px-4">
+                                <div class="event-date bg-soft-danger text-danger">7 June</div>
+                                <h5 class="font-size-16">Event Three</h5>
+                                <p class="text-muted">If several languages coalesce the grammar of the resulting simple and regular</p>
+                                <div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="list-inline-item event-list justify-content-center">
+                            <div class="px-4">
+                                <div class="event-date bg-soft-danger text-danger">7 June</div>
+                                <h5 class="font-size-16">Event Three</h5>
+                                <p class="text-muted">If several languages coalesce the grammar of the resulting simple and regular</p>
+                                <div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                       
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- end card -->
+    </div>
+</div>
+</div>
 <script src="./js/bootstrap.bundle.min.js"></script>
 	<script src="./js/holder.min.js"></script>
     <script src="./js/bootstrap.bundle.min.js"></script>
