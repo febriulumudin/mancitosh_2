@@ -3,7 +3,7 @@
 	<script src="./js/bootstrap.bundle.min.js"></script>
 	<script src="./js/holder.min.js"></script>
 	<footer class="py-5">
-    <div class="row" bis_skin_checked="1">
+    <div class="row bg-warning p-3" bis_skin_checked="1">
       <div class="col-6 col-md-2 mb-3" bis_skin_checked="1">
         <h5>Social Media</h5>
         <ul class="nav flex-column">
@@ -30,15 +30,6 @@
 		</div>
       <div class="col-md-5 offset-md-1 mb-3" bis_skin_checked="1">
         <form>
-          
-
-    <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top" bis_skin_checked="1">
-      <p>© 2023 Company, Inc. All rights reserved.</p>
-      <ul class="list-unstyled d-flex">
-        <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"></use></svg></a></li>
-        <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"></use></svg></a></li>
-        <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#facebook"></use></svg></a></li>
-      </ul>
     </div>
   </footer>
 </body>
